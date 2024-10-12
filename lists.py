@@ -34,7 +34,7 @@ print(s)
 # States the amount of numbers in the list
 print(f"This set has {len(s)} elements.")
 # Print the dictionary
-print("Hermione is in", houses["Hermione"],".")
+print("Hermione is in", houses["Hermione"], ".")
 
 # For each name in the list, print each of that name
 for name in names:
